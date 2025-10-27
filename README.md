@@ -1,2 +1,8 @@
 # A-B-Testing-Statistical-Analysis-Conversion-Experiment
-Designed and analyzed an A/B experiment to evaluate conversion performance between control and treatment user groups. Conducted data cleaning, experiment validation, and hypothesis testing using Python to determine statistically significant uplift. Delivered actionable insights and recommendations based on measured impact.
+This project focuses on analyzing the results of an A/B test conducted by an e-commerce platform to evaluate the effectiveness of a new webpage design. By working through probability checks, hypothesis testing, and regression analysis, the objective is to determine whether the company should adopt the new page, retain the existing one, or continue the experiment for more reliable insights.
+
+Scope of Work
+
+1.Probability Analysis
+2.A/B Test & Hypothesis Testing
+3.Regression Modeling
