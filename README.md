@@ -4,5 +4,7 @@ This project focuses on analyzing the results of an A/B test conducted by an e-c
 Scope of Work
 
 1.Probability Analysis
+
 2.A/B Test & Hypothesis Testing
+
 3.Regression Modeling
